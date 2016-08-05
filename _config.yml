@@ -1,4 +1,3 @@
-layout_spectrum: 0.6524228958878666
 typography_spectrum: 0.36750330310314894
 color:
   brandStrength: 0.07244850159622729
@@ -11,5 +10,9 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+layout_spectrum: 0.6524228958878666
 name: Doc Dodo
 title: contracept healthy & enjoy your life
+description: >-
+  Worried about sideeffects of the pill, unhappy with your method of
+  contraception? Let me help you!
