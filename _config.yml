@@ -1,0 +1,14 @@
+layout_spectrum: 0.6524228958878666
+typography_spectrum: 0.36750330310314894
+color:
+  brandStrength: 0.07244850159622729
+  lightness: 0.07661255542188883
+  saturation: 0.1020851288922131
+  rhythmicContrast: 0.5469051727559417
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: Doc Dodo
